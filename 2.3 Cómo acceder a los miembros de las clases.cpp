@@ -1,0 +1,1 @@
+Pelusa.suPeso = 6;
